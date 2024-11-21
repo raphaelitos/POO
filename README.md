@@ -1,2 +1,4 @@
 # POO
-Códigos feitos na disciplina de Programação Orientada a Objetos 
+Cada pasta diz respeito
+aos códigos de suas respectivas aulas,   
+ministradas presencialmente na ufes.
