@@ -24,11 +24,11 @@ Banco do Brasil
 Jardim da Penha
 3
 João Paulo Almeida
-1000
+1000,00
 Barrack Obama
-1000000.50
+1000000,50
 Bob Dylan
-900000
+900000,00
 
 Saída: ---------------------
 Nome do Banco: Banco do Brasil

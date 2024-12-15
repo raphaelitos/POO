@@ -10,10 +10,10 @@ public class Conta {
     }
 
     public String getNome() {
-        return nome;
+        return this.nome;
     }
 
     public double getSaldo() {
-        return saldo;
+        return this.saldo;
     }
 }
